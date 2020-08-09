@@ -2,12 +2,12 @@
 I use logistic regression and SVM to classify galaxies, stars, and quasars from the Sloan Digital Sky Survey DR16 database. In the "classifying-galaxies-stars-quasars" notebook, I use a dataset from Kaggle which pulls the top 100,000 entries in the database with the u and g values within a certain range. In the "Classifying with Logistic Regression and SVM" notebook, I use an original query into the database which grabs equal amounts of stars, quasars, and galaxies to train and 100,000 entries randomly to test on.
 
 # Packages Required
-statsmodels==0.11.1
-seaborn==0.10.1
-scikit-learn==0.23.1
-pandas==1.0.5
-numpy==1.18.5
-matplotlib==3.2.2
+* statsmodels==0.11.1
+* seaborn==0.10.1
+* scikit-learn==0.23.1
+* pandas==1.0.5
+* numpy==1.18.5
+* matplotlib==3.2.2
 
 # Description of Notebooks
 Each notebook is organized in the same way. Each of them are split into steps of the process as such:
