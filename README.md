@@ -19,6 +19,7 @@ Each notebook is organized in the same way. Each of them are split into steps of
 4. Conclusion
 
 # Acknowledgments
-Kaggle Dataset: https://www.kaggle.com/muhakabartay/sloan-digital-sky-survey-dr16
+Kaggle Dataset: https://www.kaggle.com/muhakabartay/sloan-digital-sky-survey-dr16 \\
+
 SDSS DR16 Database: http://skyserver.sdss.org/dr16/en/tools/search/sql.aspx
 
